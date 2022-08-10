@@ -1,0 +1,24 @@
+# To ignore Unix Executables
+# Ignore all
+*
+# Unignore al with extensions
+!*.*
+# Unignore all dirs
+!*/
+# Compiled Object files 
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.exe 
+*.out 
+*.app
+
+# OSX
+.DS_Store
+C++/*.dSYM
+
+# VScode
+.vscode
