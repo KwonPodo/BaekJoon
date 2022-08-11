@@ -5,6 +5,8 @@
 !*.*
 # Unignore all dirs
 !*/
+
+
 # Compiled Object files 
 *.slo
 *.lo
@@ -22,3 +24,6 @@ C++/*.dSYM
 
 # VScode
 .vscode
+
+# Ignore test.cpp
+C++/test.cpp
