@@ -1,8 +1,10 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 using namespace std;
 
 int main()
 {
-    cout << 'a' - 'z' + 12;
+    int n = -3;
+    cout << 3 - n;
 }

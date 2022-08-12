@@ -9,7 +9,6 @@ int main()
 
     string key, str;
     std::getline(cin, str, '\n');
-    // cin.ignore();
     cin >> key;
 
     string ans;
