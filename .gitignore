@@ -27,3 +27,4 @@ C++/*.dSYM
 
 # Ignore test.cpp
 C++/test.cpp
+Python/test.py
